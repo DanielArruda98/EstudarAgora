@@ -25,4 +25,9 @@
 
 .certa {
     background-color: rgb(138, 219, 180);
+    transition: 1s;
+}
+
+.view {
+    top: -10px;
 }
